@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DreamAnalyzer</string>
+    <string-array name="moods_array">
+        <item>Happy</item>
+        <item>Content</item>
+        <item>Neutral</item>
+        <item>Anxious</item>
+        <item>Sad</item>
+    </string-array>
+</resources>
