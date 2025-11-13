@@ -12,7 +12,6 @@ import java.util.Map;
 public class AIAnalyzer {
     private static final String TAG = "AIAnalyzer";
 
-    // 🔒 Replace this locally with your own Gemini API key (keep private!)
     private static final String GEMINI_API_KEY = "YOUR_API_KEY_HERE";
 
     private static final String GEMINI_URL =
